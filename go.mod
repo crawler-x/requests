@@ -1,4 +1,4 @@
-module github.com/wangluozhe/requests
+module github.com/crawler-x/requests
 
 go 1.24.0
 
